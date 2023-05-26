@@ -1,4 +1,4 @@
-### :woman_technologist: 
+[Avatar](https://raw.githubusercontent.com/lauranavas/lauranavas/main/me-oc.png)
 ## Hello, human! 👋
 
 #### You can find me on:
