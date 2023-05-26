@@ -1,4 +1,5 @@
-![Avatar](https://raw.githubusercontent.com/lauranavas/lauranavas/main/me-oc.png)
+<img src="https://raw.githubusercontent.com/lauranavas/lauranavas/main/me-oc.png" alt="Avatar" width="100">
+
 ## Hello, human! 👋
 
 #### You can find me on:
