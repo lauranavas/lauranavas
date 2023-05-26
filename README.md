@@ -2,9 +2,9 @@
 
 #### You can find me on:
 
-- [Twitter](https://twitter.com/lauranavasc)
-- [Instagram](https://instagram.com/lauranavasc)
-- [Behance](https://behance.com/lauranavas)
+- 🐦[Twitter](https://twitter.com/lauranavasc)
+- 📷[Instagram](https://instagram.com/lauranavasc)
+- 🎨[Behance](https://behance.com/lauranavas)
 <!--
 **lauranavas/lauranavas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
